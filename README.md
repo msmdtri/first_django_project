@@ -1,4 +1,4 @@
-# first_django_project_1
+# first_django_project
 This is my first django project
 
 # Screenshot added to README.md file
